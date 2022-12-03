@@ -6,3 +6,4 @@ forth
 hot-fix
 hello master
 hello hot-fix
+nihao!
